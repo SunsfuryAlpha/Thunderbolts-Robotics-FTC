@@ -1,11 +1,11 @@
 package main;
 
-/**
- * Created by samuelkalnins on 13/10/2015.
- */
+
 public class Reference
 {
+	//put global constants here
 
+	public static final double DRIVE_FRACTION = 1.0; //An example, the ratio at which to multiply sppeds with
 
 	
 }
